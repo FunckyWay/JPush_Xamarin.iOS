@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPushtest", "JPushtest\JPushtest.csproj", "{5D91F3AD-A703-4B97-A318-3E67D0C94D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Release|iPhone.Build.0 = Release|iPhone
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5D91F3AD-A703-4B97-A318-3E67D0C94D65}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

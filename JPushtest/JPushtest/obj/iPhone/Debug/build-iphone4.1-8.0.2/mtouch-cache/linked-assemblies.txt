@@ -1,0 +1,6 @@
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/JPushClient.dll
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/JPushtest.exe
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/System.dll
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/mscorlib.dll
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache/Link/System.Core.dll

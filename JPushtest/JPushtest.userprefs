@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5D91F3AD-A703-4B97-A318-3E67D0C94D65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JPushtest/AppDelegate.cs">
+    <Files>
+      <File FileName="JPushtest/AppDelegate.cs" Line="88" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JPushtest" expanded="True">
+            <Node name="JPushtest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JPushtest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EB6A652A-62D4-47DB-9F01-46C0A5EC095F" />
+</Properties>

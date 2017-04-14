@@ -1,0 +1,44 @@
+# Version: 10.3.0.0 (xcode8.2: e02d272)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.0.0/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.0.0/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-cache \
+	--dev \
+	/Users/tuoluofu/Projects/JPushtest/JPushtest/bin/iPhone/Debug/build-iphone4.1-8.0.2/JPushtest.app \
+	--executable \
+	JPushtest \
+	--fastdev \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.2 \
+	--targetver \
+	8.0 \
+	--aot-options=-O=float32 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=armv7 \
+	--symbollist \
+	/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhone/Debug/build-iphone4.1-8.0.2/mtouch-symbols.list \
+	--dsym=no \
+	--gcc_flags \
+	"-L/Users/tuoluofu/Projects/JPushtest/JPushtest -framework MapKit -framework CoreMotion -framework CoreGraphics -framework QuartzCore -framework CoreText -framework CoreLocation -framework SystemConfiguration -lz -lstdc++.6.0.9 -lz -lresolv -lz -lsqlite3.0 -framework CoreTelephony -framework OpenGLES -framework Foundation -framework Security -ObjC" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/tuoluofu/Projects/JPushtest/JPushClient.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/tuoluofu/Projects/JPushtest/JPushClient.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/tuoluofu/Projects/JPushtest/JPushtest/bin/iPhone/Debug//JPushtest.exe \

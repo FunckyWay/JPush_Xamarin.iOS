@@ -1,0 +1,10 @@
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/optimized/
+/Users/tuoluofu/Projects/JPushtest/JPushtest/bin/iPhoneSimulator/Debug/JPushtest.exe.mdb
+/Users/tuoluofu/Projects/JPushtest/JPushtest/bin/iPhoneSimulator/Debug/JPushtest.exe
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/JPushtest.exe
+/Users/tuoluofu/Projects/JPushtest/JPushtest/obj/iPhoneSimulator/Debug/JPushtest.exe.mdb
+/Users/tuoluofu/Projects/JPushtest/JPushtest/bin/iPhoneSimulator/Debug/JPushClient.dll
